@@ -5,10 +5,10 @@
 <p align="center">
   <img src="https://github.com/AgoraIO-Community/Extension-Synervoz-Voice-FX-iOS/actions/workflows/swiftpm-resolve.yml/badge.svg"/>
 </p>
-
 <p align="center">
-  <img src="https://agora-ticket.oss-cn-shanghai.aliyuncs.com/dashboard/marketplace/4a3b16e1.jpg?OSSAccessKeyId=LTAIlIYu0PfwhIZL&Expires=1637699233&Signature=0A96nqBgZajnthUqP1E5G%2FH%2BvtA%3D"/>
+  <img src="media/synervoz-banner.jpg"/>
 </p>
+
 
 Voice effects can be applied in real time for a variety of purposes. For example, the echo and reverb effects can be used to make it sound like a user is inside a room or hallway; the pitch shifter can be used to mask a user’s voice; and the flanger can be used to add a cool effect (i.e. a slightly delayed duplicate) while singing. Each voice effect (Echo, Reverb, Pitch Shift, Flanger) has parameters that can be modified to create the desired effect. In addition, sliders can be utilized to hear the impact of each parameter in real time. This can be used to fine tune the output for a particular use case or to teach end users about how each of the effects work. More effects and extension features are planned.
 
